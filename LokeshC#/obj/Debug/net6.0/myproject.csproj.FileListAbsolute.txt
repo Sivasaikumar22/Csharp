@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\LokeshC#\bin\Debug\net6.0\myproject.exe
+C:\Users\HP\Downloads\LokeshC#\bin\Debug\net6.0\myproject.deps.json
+C:\Users\HP\Downloads\LokeshC#\bin\Debug\net6.0\myproject.runtimeconfig.json
+C:\Users\HP\Downloads\LokeshC#\bin\Debug\net6.0\myproject.dll
+C:\Users\HP\Downloads\LokeshC#\bin\Debug\net6.0\myproject.pdb
+C:\Users\HP\Downloads\LokeshC#\obj\Debug\net6.0\myproject.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\LokeshC#\obj\Debug\net6.0\myproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\LokeshC#\obj\Debug\net6.0\myproject.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\LokeshC#\obj\Debug\net6.0\myproject.AssemblyInfo.cs
+C:\Users\HP\Downloads\LokeshC#\obj\Debug\net6.0\myproject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\LokeshC#\obj\Debug\net6.0\myproject.dll
+C:\Users\HP\Downloads\LokeshC#\obj\Debug\net6.0\refint\myproject.dll
+C:\Users\HP\Downloads\LokeshC#\obj\Debug\net6.0\myproject.pdb
+C:\Users\HP\Downloads\LokeshC#\obj\Debug\net6.0\myproject.genruntimeconfig.cache
+C:\Users\HP\Downloads\LokeshC#\obj\Debug\net6.0\ref\myproject.dll
